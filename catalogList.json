@@ -1,0 +1,10 @@
+[
+      {
+         "name": "SAP Access",
+         "path": "https://raw.githubusercontent.com/softwarehousebrf/apicatalog/main/SAP%20Access.yaml"
+      },
+      {
+         "name": "Teste",
+         "path": "https://raw.githubusercontent.com/softwarehousebrf/apicatalog/main/teste.yaml"
+      }
+]

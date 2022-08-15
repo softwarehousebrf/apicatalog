@@ -6,5 +6,9 @@
       {
          "name": "Teste",
          "path": "https://raw.githubusercontent.com/softwarehousebrf/apicatalog/main/teste.yaml"
+      },
+      {
+         "name": "Teste2",
+         "path": "https://raw.githubusercontent.com/softwarehousebrf/apicatalog/main/teste.yaml"
       }
 ]
